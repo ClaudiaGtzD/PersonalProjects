@@ -26,7 +26,8 @@ Cada proyecto tendrá su propia carpeta y un README con una explicación más de
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |---|---|---|---|
-| [Clasificación de géneros de películas](./PosterCNN/) | Clasificación multietiqueta de géneros cinematográficos a partir de pósteres mediante redes neuronales convolucionales. | Python, TensorFlow, Keras, CNN, OMDb API | Disponible |
+| [Clasificación de géneros de películas](./DeepLearning//PosterCNN/) | Clasificación multietiqueta de géneros cinematográficos a partir de pósteres mediante redes neuronales convolucionales. | Python, TensorFlow, Keras, CNN, OMDb API | Disponible |
+| [Análisis de Redes Sociales en Afores](./PowerBI/01_Social_Network/) | Análisis de relaciones entre agentes a partir de clientes compartidos mediante teoría de grafos y Social Network Analysis (SNA), complementado con un dashboard interactivo. | Python, Pandas, NetworkX, Power BI, DAX | Disponible |
 | Predicción de generación fotovoltaica | Estimación de la generación de energía solar utilizando datos históricos y variables climatológicas. | Python, LightGBM, Scikit-learn, series de tiempo | Próximamente |
 | Análisis y visualización de datos | Proyectos de exploración, transformación y comunicación de resultados mediante reportes y dashboards. | Python, R, SQL Server, Power BI | Próximamente |
 | Automatización de procesos | Ejercicios de integración de datos, consumo de APIs y automatización de tareas. | Python, SQL, n8n, APIs | Próximamente |
