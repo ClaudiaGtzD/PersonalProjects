@@ -30,7 +30,7 @@ Los siguientes proyectos abarcan Business Intelligence, Ciencia de Datos, Estad�
 |---|---|---|---|
 | [Clasificación de géneros de películas](./DeepLearning//PosterCNN/) | Clasificación multietiqueta de géneros cinematográficos a partir de pósteres mediante redes neuronales convolucionales. | Python, TensorFlow, Keras, CNN, OMDb API | Disponible |
 | [Análisis de Redes Sociales en Afores](./PowerBI/01_Social_Network/) | Análisis de relaciones entre agentes a partir de clientes compartidos mediante teoría de grafos y Social Network Analysis (SNA), complementado con un dashboard interactivo. | Python, Pandas, NetworkX, Power BI, DAX | Disponible |
-| [Análisis de Cartera de Crédito](./PowerBI/02_Hierarchical_Time_Series/) | Evaluación visual de indicadores relacionados con riesgo y desempeño de créditos. | Power BI, DAX | Disponible |
+| [Análisis de Cartera de Crédito](./PowerBI/02_Hierarchical_Time_Series/) | Evaluación visual de indicadores relacionados con riesgo y desempeño de créditos. | Power BI, DAX, R | Disponible |
 | Análisis Estadístico de la NBA | Exploración estadística de datos históricos para identificar patrones y tendencias en el rendimiento de equipos y jugadores. | Python, Estadística | Próximamente |
 | Detección de Lavado de Dinero | Dashboard interactivo para el análisis de operaciones financieras potencialmente sospechosas. | Power BI, DAX | Próximamente |
 | Análisis del Retiro Temprano | Visualización y análisis de factores relacionados con el retiro anticipado de trabajadores. | Power BI, DAX | Próximamente |
