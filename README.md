@@ -24,19 +24,31 @@ Cada proyecto tendrá su propia carpeta y un README con una explicación más de
 
 ## Proyectos
 
+Los siguientes proyectos abarcan Business Intelligence, Ciencia de Datos, Estadística y Deep Learning. Cada uno contará con documentación detallada, metodología, resultados y conclusiones conforme sean publicados.
+
 | Proyecto | Descripción | Tecnologías | Estado |
 |---|---|---|---|
 | [Clasificación de géneros de películas](./DeepLearning//PosterCNN/) | Clasificación multietiqueta de géneros cinematográficos a partir de pósteres mediante redes neuronales convolucionales. | Python, TensorFlow, Keras, CNN, OMDb API | Disponible |
 | [Análisis de Redes Sociales en Afores](./PowerBI/01_Social_Network/) | Análisis de relaciones entre agentes a partir de clientes compartidos mediante teoría de grafos y Social Network Analysis (SNA), complementado con un dashboard interactivo. | Python, Pandas, NetworkX, Power BI, DAX | Disponible |
-| Predicción de generación fotovoltaica | Estimación de la generación de energía solar utilizando datos históricos y variables climatológicas. | Python, LightGBM, Scikit-learn, series de tiempo | Próximamente |
-| Análisis y visualización de datos | Proyectos de exploración, transformación y comunicación de resultados mediante reportes y dashboards. | Python, R, SQL Server, Power BI | Próximamente |
-| Automatización de procesos | Ejercicios de integración de datos, consumo de APIs y automatización de tareas. | Python, SQL, n8n, APIs | Próximamente |
+| [Análisis de Cartera de Crédito](./PowerBI/02_Hierarchical_Time_Series/) | Evaluación visual de indicadores relacionados con riesgo y desempeño de créditos. | Power BI, DAX | Disponible |
+| Análisis Estadístico de la NBA | Exploración estadística de datos históricos para identificar patrones y tendencias en el rendimiento de equipos y jugadores. | Python, Estadística | Próximamente |
+| Detección de Lavado de Dinero | Dashboard interactivo para el análisis de operaciones financieras potencialmente sospechosas. | Power BI, DAX | Próximamente |
+| Análisis del Retiro Temprano | Visualización y análisis de factores relacionados con el retiro anticipado de trabajadores. | Power BI, DAX | Próximamente |
+| Análisis de Ventas de Cigarrillos | Dashboard para explorar ventas, tendencias y comportamiento del mercado. | Power BI, DAX | Próximamente |
+| Elasticidad Precio-Demanda | Análisis del impacto de cambios en precios sobre la demanda mediante dashboards interactivos. | Power BI, DAX | Próximamente |
+| Pronóstico de Ventas | Análisis histórico y predicción de ventas utilizando modelos de series de tiempo. | Power BI, DAX | Próximamente |
+| Análisis de Libros mediante Deep Learning | Aplicación de redes neuronales para el análisis de información textual. | Python, TensorFlow | Próximamente |
+| Clasificación Automática de Documentos | Clasificación inteligente de documentos utilizando técnicas de aprendizaje profundo. | Python, TensorFlow | Próximamente |
+| Clasificación de Imágenes | Implementación de redes neuronales convolucionales para clasificación de imágenes. | Python, TensorFlow, CNN | Próximamente |
+| Detección de Plagio en Audio | Comparación de señales de audio para identificar similitudes entre grabaciones. | Python, Deep Learning | Próximamente |
+| Análisis de Supervivencia de Árboles | Aplicación de modelos estadísticos para estudiar la supervivencia de especies arbóreas. | Python, Estadística | Próximamente |
+| Predicción de Generación Fotovoltaica | Estimación de la generación de energía solar utilizando datos históricos y variables climatológicas. | Python, LightGBM, Scikit-learn | Próximamente |
 
 > La estructura y los enlaces se actualizarán conforme se incorporen nuevos proyectos.
 
 ---
 
-## Áreas de interés
+## Áreas de especialización
 
 - Business Intelligence y análisis de datos.
 - Integración, transformación y calidad de datos.
